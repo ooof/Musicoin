@@ -21,7 +21,7 @@ Musicoin 创新的实现了音乐流通与开放数字货币的结合，为音�
 > 3. [Musicoin 时间线](musicoin-historymd.md)
 
 > 1. [Musicoin 桌面版钱包](musicoin-desktop-wallet.md)
-> 2. [在 Cryptopia 市场进行交易](musicoin-transact-cryptopia.md)
+> 2. [交易 Musicoin]（musicoin-transact.md）
 
 > 1. [查询区块链数据](https://orbiter.musicoin.org)
 > 2. [挖矿相关](musicoin-mining.md)
