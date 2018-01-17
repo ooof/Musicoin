@@ -17,7 +17,7 @@ Musicoin 创新的实现了音乐流通与开放数字货币的结合，为音�
 > 5. [发布音乐作品](musicoin-posted.md)
 
 > 1. [Musicoin 问答](musicoin-faq.md)
-> 2. [Musicoin 中文歌手状况](musicoin-china-songster.md)
+> 2. [Musicoin 中文歌手](musicoin-china-songster.md)
 > 3. [Musicoin 时间线](musicoin-historymd.md)
 
 > 1. [Musicoin 桌面版钱包](musicoin-desktop-wallet.md)
