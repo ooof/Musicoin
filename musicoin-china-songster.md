@@ -1,11 +1,13 @@
-# 截止2017/10/17 - Musicoin 中文歌手状况
+# Musicoin 中文歌手
 
- ooof 统计与整理了截止 2017/10/17 ，中文歌手在 [Musicoin](https://musicoin.org) 注册及发布歌曲的状况，包括是否认证、是否有歌曲、Musicoin链接、乐币收入、微博粉丝数量。
 
-### 一、认证，有歌曲
+## 一、2017 Musicoin 中文歌手
 
-1. 
-   兮曰Crandy：[Musicoin地址](https://musicoin.org/nav/artist/0xb28bf7da5eb386ec2f745c6b6520fa5969051a44) ，532$MC，微信朋友介绍
+截止 2017 年 ，中文歌手在 [Musicoin](https://musicoin.org) 注册及发布歌曲的状况，包括是否认证、是否有歌曲、Musicoin链接、乐币收入、微博粉丝数量。
+
+### 1.认证，有歌曲
+
+1. 兮曰Crandy：[Musicoin地址](https://musicoin.org/nav/artist/0xb28bf7da5eb386ec2f745c6b6520fa5969051a44) ，532$MC，微信朋友介绍
 2. 江俐奇：[Musicoin地址](https://musicoin.org/artist/0x24e4aabbb89fc6f2d89b25207606cc603ac047dc)，73$MC，[微博](https://weibo.com/jiangliqi) (3529)
 3. 初晨219：[Musicoin地址](https://musicoin.org/artist/0x272c4cbc8aa1877c21193a4b6dca6ae976960954)， 50$MC，[微博](https://weibo.com/u/5738169551) (5436)
 4. 孟杨：[Musicoin地址](https://musicoin.org/artist/0x54de0e1321b30e35436c8d47ed69935412e2070f)，105$MC[微博](https://weibo.com/mirrormusic) (11711)
@@ -29,12 +31,14 @@
 22. 海滨：[Musicoin地址](https://musicoin.org/nav/artist/0x6ea64ecfd3281a09771f0f0b331877292bcb0d3a)，101$MC，[5Sing](http://5sing.kugou.com/56008599/) (168)
 23. Pochang Wu：[Musicoin地址](https://musicoin.org/nav/artist/0xd236d8da7039a00976f63a1600aff51313d0e529)，67$MC，[Facebook](https://www.facebook.com/app_scoped_user_id/10154668145908191/)
 24. Xiahong (TT) Lin：[Musicoin地址](https://musicoin.org/nav/artist/0x6ba7a827b6735fae0b5df3ee5b480c18d609a6c2)，13$MC，[Twitter](https://twitter.com/xhlin) (517)
+25. ooof：[Musicoin地址](https://musicoin.org/artist/0x93afd00a810ceb92ed6934a32e9f46a8c45c9fbc)，135$MC，[微博](https://weibo.com/ooof) (2428)
+26. 2017/11/06，[阿木](https://musicoin.org/nav/artist/0x1d15cb23742af29c31955a8a5ab15af8696e343e)，1$MC，[微博](https://weibo.com/mt0000) (24133)
+27. 2017/11/06，[行文泽](https://musicoin.org/nav/artist/0xe46375ecf9e3725f20df34e29b8c5bbfb46f1024)，577$MC ，[微博](https://weibo.com/272605599)（992）
+28. 2017/11/19，[乔伊斯](https://musicoin.org/artist/0xc58349748985f1bb159a8b55c1eab0d5a0fd00af) ，[微博](https://weibo.com/Dcy19870504)
+29. 2017/11/22，[杨牧](https://musicoin.org/nav/artist/0x09609d8db9fb0cf2cbb60831f7ba6ea3fb23f99c) ，[微博](https://weibo.com/minyaoyangmu)
+30. 2017/11/22，[苏碧霄](https://musicoin.org/nav/artist/0x0d1f25ad32997bd236ed5c4830664d5585964a2c) ，[微博](https://weibo.com/u/5534480736)
 
-
-
-
-
-### 二、认证，无歌曲
+### 2.认证，无歌曲
 
 1. QingQing：[Musicoin地址](https://musicoin.org/nav/artist/0x0210a4ffc6ad53c377f50817a96a293e7ef7e368)，12$MC，[微博](https://weibo.com/u/3936889598) (401285)
 
@@ -44,17 +48,9 @@
 5. 凯博：[Musicoin地址](https://musicoin.org/nav/artist/0x267d6a2cccafb26d0533b8682da292aa624732ae)，[5Sing](http://5sing.kugou.com/52110692) (18)
 
 
+### 3.无认证，无歌曲
 
-### 三、无认证，有歌曲
-
-1. ooof：[Musicoin地址](https://musicoin.org/artist/0x93afd00a810ceb92ed6934a32e9f46a8c45c9fbc)，135$MC，[微博](https://weibo.com/ooof) (2428)
-
-
-
-
-### 四、无认证，无歌曲
-
-1. 胡静：[Musicoin地址](	https://musicoin.org/nav/artist/0xcda87f14e8b0289dad605a4ca673957fb6bb7ad2)， [微博](https://weibo.com/hujing) (3087995)
+1. 胡静：[Musicoin地址](https://musicoin.org/nav/artist/0xcda87f14e8b0289dad605a4ca673957fb6bb7ad2)， [微博](https://weibo.com/hujing) (3087995)
 2. 环宇组合：[Musicoin地址](https://musicoin.org/nav/artist/0x186e807fb381eaa4f5234d7c1b66966cf365a270 )，[微博](https://weibo.com/525760128) (8914)
 3. 李轶：[Musicoin地址](https://musicoin.org/nav/artist/0x889a0730f3dfaa7324dcb5ac74529d4547156805)，1$MC
 4. 李天平&创梦文化：[Musicoin地址](https://musicoin.org/nav/artist/0x02bb3269c4b99fd7fdf0b81e797b79944b0d62a0)
@@ -64,12 +60,11 @@
 
 
 
-### 五、2017/10/17 后进入歌手
 
-1. 阿木，发布歌曲：[Musicoin地址](https://musicoin.org/nav/artist/0x1d15cb23742af29c31955a8a5ab15af8696e343e)，1$MC，[微博](https://weibo.com/mt0000) (24133)
-2. 2017/11/06，行文泽发布歌曲，[Musicoin地址](https://musicoin.org/nav/artist/0xe46375ecf9e3725f20df34e29b8c5bbfb46f1024)，577$MC ，[微博](https://weibo.com/272605599)（992）
-3. 2017/11/19，[乔伊斯](https://musicoin.org/artist/0xc58349748985f1bb159a8b55c1eab0d5a0fd00af) 发布歌曲，[微博](https://weibo.com/Dcy19870504)
-4. 2017/11/22，[杨牧](https://musicoin.org/nav/artist/0x09609d8db9fb0cf2cbb60831f7ba6ea3fb23f99c) 发布歌曲，[微博](https://weibo.com/minyaoyangmu)
-5. 2017/11/22，[苏碧霄](https://musicoin.org/nav/artist/0x0d1f25ad32997bd236ed5c4830664d5585964a2c) 发布歌曲，[微博](https://weibo.com/u/5534480736)
+## 一、2018 Musicoin 中文歌手
+
+1. 2018/01/01，[宫下匠规](https://musicoin.org/nav/artist/0x22dc5713ba990755f5901d12b6e38f87f5ee9e37)，[微博](https://weibo.com/gongxiajianggui)
+2. 2018/01/10，[郭鑫磊](https://musicoin.org/artist/0x9d80ef6ed950d6c74f4e8f873db86c1b7ea1e7ed)，[微博](https://weibo.com/theraymusic)
+3. 2018/01/10，[任承浩](https://musicoin.org/artist/0xc6d90e152eac765b19eee66884232f7aed124a3d)，[微博](https://weibo.com/renchenghao)
 
 
