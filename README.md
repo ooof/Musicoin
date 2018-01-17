@@ -1,4 +1,4 @@
-# 创新的音乐发布平台：Musicoin
+# 创新的音乐发布平台：Musicoin.org
 
 ![](img/index.PNG)
 
