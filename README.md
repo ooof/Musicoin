@@ -18,15 +18,15 @@ Musicoin 创新的实现了音乐流通与开放数字货币的结合，为音�
 
 > 1. [Musicoin 问答](musicoin-faq.md)
 > 2. [Musicoin 中文歌手](musicoin-china-songster.md)
-> 3. [Musicoin 时间线](musicoin-historymd.md)
+> 3. [Musicoin 时间线](musicoin-history.md)
 
 > 1. [Musicoin 桌面版钱包](musicoin-desktop-wallet.md)
 > 2. [Musicoin 兑换为人民币](musicoin-exchange.md)
 
-> 1. [查询区块链数据](https://orbiter.musicoin.org)
+> 1. [Musicoin 区块链数据查询](musicoin-explorer.md)
 > 2. [挖矿相关](musicoin-mining.md)
 
 > 1. [开发](musicoin-api.md)
-> 2. [技术名词解释](musicoin-technique.md)
+> 2. [名词](musicoin-technique.md)
 
 > 1. [联系 Musicoin](musicoin-contact.md)
