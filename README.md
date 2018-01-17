@@ -8,7 +8,7 @@ Musicoin 创新的实现了音乐流通与开放数字货币的结合，为音�
 
 欢迎更多的音乐人及音乐爱好者加入，共同拓展 Musicoin 全新的音乐空间。
 
-更多内容请浏览下面 Musicoin 百科。
+更多内容请浏览下面 Musicoin 介绍。
 
 > 1. [简介](musicoin-profile.md)
 > 2. [注册 Musicoin](musicoin-reg.md)
@@ -21,7 +21,7 @@ Musicoin 创新的实现了音乐流通与开放数字货币的结合，为音�
 > 3. [Musicoin 时间线](musicoin-historymd.md)
 
 > 1. [Musicoin 桌面版钱包](musicoin-desktop-wallet.md)
-> 2. [交易 Musicoin](musicoin-transact.md)
+> 2. [Musicoin 兑换为人民币](musicoin-exchange.md)
 
 > 1. [查询区块链数据](https://orbiter.musicoin.org)
 > 2. [挖矿相关](musicoin-mining.md)

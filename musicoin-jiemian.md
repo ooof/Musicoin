@@ -18,3 +18,7 @@
 
 ![](img/shour2.png)
 
+### 3. 通过区块链浏览器查看音乐人的收入
+
+Musicoin 区块链浏览器： https://explorer.musicoin.org/ 
+在区块链浏览器右上角的输入框输入音乐人的地址，就可以查看音乐人所有的收入。
