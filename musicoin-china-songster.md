@@ -3,7 +3,7 @@
 
 ## 一、2017 Musicoin 中文歌手
 
-截止 2017 年 ，中文歌手在 [Musicoin](https://musicoin.org) 注册及发布歌曲的状况，包括是否认证、是否有歌曲、Musicoin链接、乐币收入、微博粉丝数量。
+2017年中文歌手在 [Musicoin](https://musicoin.org) 注册及发布歌曲的状况，包括是否认证、是否有歌曲、Musicoin链接、乐币收入、微博粉丝数量。
 
 ### 1.认证，有歌曲
 
@@ -61,10 +61,15 @@
 
 
 
-## 一、2018 Musicoin 中文歌手
+## 二、2018 Musicoin 中文歌手
 
 1. 2018/01/01，[宫下匠规](https://musicoin.org/nav/artist/0x22dc5713ba990755f5901d12b6e38f87f5ee9e37)，[微博](https://weibo.com/gongxiajianggui)
 2. 2018/01/10，[郭鑫磊](https://musicoin.org/artist/0x9d80ef6ed950d6c74f4e8f873db86c1b7ea1e7ed)，[微博](https://weibo.com/theraymusic)
 3. 2018/01/10，[任承浩](https://musicoin.org/artist/0xc6d90e152eac765b19eee66884232f7aed124a3d)，[微博](https://weibo.com/renchenghao)
+4. 2018/01/19, [苏颂 CooperSon](https://musicoin.org/artist/0xcee848d11f8621e5c8ef3570343e1ad3818d3b0e),[微博](https://weibo.com/coopersong)
+5. 2018/01/19, [曹秦](https://musicoin.org/artist/0xbd034d8b41bf17463b9d37f69e6aa5167cf70c23),[微博](https://weibo.com/caoqinmusic)
+6. 2018/01/13,[杰凱JKAI](https://musicoin.org/artist/0x792dacd3ecbff4b0800b74c72ccd986e27d22396) , [微博](https://weibo.com/dixonjkai) , [网站](http://www.clubzeromedia.com)
+7. 2018/01/23, [遁世浮屠](https://musicoin.org/artist/0x4fa8439d72c322e167a22a9c7ef1c16ad64b21fb) ,[微博](https://weibo.com/u/3272839713)
+8. 2018/01/23, [王子儿](https://musicoin.org/artist/0xcdc0e384cb9ac8cb7a71713946e613c42ea0d4c6)  [微博](https://weibo.com/zierblog)
 
 
