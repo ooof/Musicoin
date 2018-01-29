@@ -1,8 +1,13 @@
 # 交易 Musicoin
 
-合乎想法的，交易 Musicoin 的场所是数字货币交易所，仅仅 CoinMarketCap 收集的数字货币交易市场截至 2018/1/16 就有 [7507](https://coinmarketcap.com/zh/currencies/volume/24-hour/) 个。
+可以在数字货币交易市场把 Musicoin 兑换为其它数字货币（比如比特币），目前 Musicoin 在两个数字货币市场上市：
 
-目前可以提供 Musicoin 交易的市场有两个：[Bittrex](https://bittrex.com/) (简称 B站 ）和 [Cryptopia.co.nz](https://www.cryptopia.co.nz) (简称 C站 )。
+- [Bittrex](https://bittrex.com/) (简称 B站 ） 
+- [Cryptopia.co.nz](https://www.cryptopia.co.nz) (简称 C站 ) ，[在 Cryptopia 交易简介](musicoin-transact-cryptopia.md)
 
 
-[在 Cryptopia 市场进行交易](musicoin-transact-cryptopia.md)
+PS：
+
+[CoinMarketCap](https://coinmarketcap.com/zh/) 是一个数字货币开放数据网，截至 2018/01/29 ，收集数字货币 [1494](https://coinmarketcap.com/zh/all/views/all/) 种，数字货币交易市场 [8211](https://coinmarketcap.com/zh/currencies/volume/24-hour/) 。
+
+Musicoin 在 CoinMarketCap 的页面：https://coinmarketcap.com/zh/currencies/musicoin/
