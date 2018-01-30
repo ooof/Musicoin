@@ -10,7 +10,7 @@ Musicoin 创新的实现了音乐流通与开放数字货币的结合，为音�
 
 更多内容请浏览下面 Musicoin 介绍。
 
-> 1. [简介](musicoin-profile.md)
+> 1. [Musicoin 白皮书&路线图](musicoin-profile.md)
 > 2. [注册 Musicoin](musicoin-reg.md)
 > 3. [Musicoin 基本使用](musicoin-basic-use.md)
 > 4. [查看作品的收入](musicoin-jiemian.md)
