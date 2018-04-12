@@ -16,3 +16,8 @@
 1. Discordapp在线：https://discordapp.com/channels/373454655457329152/373458541282983937， [Discordapp操作介绍](https://support.discordapp.com/hc/zh-tw)
 2. Slack 账户：[http://slack.musicoin.org](http://slack.musicoin.org)
 
+
+其它：
+
+1. Musicoin 短网址：http://jam.dj/
+2. 致力于Musicoin DJ混音和音乐 http://www.musicoin.dj/
