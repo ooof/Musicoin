@@ -56,10 +56,6 @@
 5. Jaycco：[Musicoin地址](https://musicoin.org/nav/artist/0x42b7ea7cb1188244607981096d9468f49c5e7495)
 6. 音乐学人：[Musicoin地址](https://musicoin.org/nav/artist/0x3c275a8e0dca6053bc5c6b888dcd3e01f11de80e )，[微博](https://weibo.com/315187222)(2255739)
 
-
-
-
-
 ## 二、2018 Musicoin 中文歌手
 
 1. 2018/01/01，[宫下匠规](https://musicoin.org/nav/artist/0x22dc5713ba990755f5901d12b6e38f87f5ee9e37)，[微博](https://weibo.com/gongxiajianggui)
@@ -75,6 +71,6 @@
 11. 2018/08/15，[贾昱彤](https://musicoin.org/nav/artist/0xca5140fdda2bd29055e3378f033aa1832126cb13)，[微博](https://weibo.com/u/1745456141)
 12. 2018/09/09，[遁世浮屠](https://musicoin.org/nav/artist/0x4fa8439d72c322e167a22a9c7ef1c16ad64b21fb)，[微博](https://www.weibo.com/u/3272839713)
 13. 2018/09/11， [戰慄音樂](https://musicoin.org/nav/artist/0x167df7662b355a8d8d92b9634424d86411fe6858)，[微博](https://weibo.com/classicsound) (9954)
-14. 2018/09/18，[代乐东](https://musicoin.org/nav/artist/0x1983d01c841e76542448422e0aa2f8c9889ce9d7)，[微博](https://weibo.com/p/1004061863345053)
+14. 2018/09/18，[代岳东](https://musicoin.org/nav/artist/0x1983d01c841e76542448422e0aa2f8c9889ce9d7)，[微博](https://weibo.com/p/1004061863345053)
 
 
