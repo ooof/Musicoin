@@ -71,5 +71,10 @@
 6. 2018/01/13，[杰凱JKAI](https://musicoin.org/artist/0x792dacd3ecbff4b0800b74c72ccd986e27d22396) ，[微博](https://weibo.com/dixonjkai) ， [网站](http://www.clubzeromedia.com)
 7. 2018/01/23，[遁世浮屠](https://musicoin.org/artist/0x4fa8439d72c322e167a22a9c7ef1c16ad64b21fb) ，[微博](https://weibo.com/u/3272839713)
 8. 2018/01/23，[王子儿](https://musicoin.org/artist/0xcdc0e384cb9ac8cb7a71713946e613c42ea0d4c6) ，[微博](https://weibo.com/zierblog)
+9. 2018/04/10，[刘延栋](https://musicoin.org/nav/track/0xe5ad60b680e68bcb2c8c5bd742e8b19831a41bb4)，[微博](https://weibo.com/ruanjiannaxieshier)，[绿帽子大学](https://lmzdx.com/)
+10. 2018/04/18，[尹梅](https://musicoin.org/nav/artist/0x0e10b0e2e6f2efdfc528a0b3be080a504825401f)
+11. 2018/08/15，[贾昱彤](https://musicoin.org/nav/artist/0xca5140fdda2bd29055e3378f033aa1832126cb13)，[微博](https://weibo.com/u/1745456141)
+12. 2018/09/09，[遁世浮屠](https://musicoin.org/nav/artist/0x4fa8439d72c322e167a22a9c7ef1c16ad64b21fb)，[微博](https://www.weibo.com/u/3272839713)
+13. 2018/09/18，[代乐东](https://musicoin.org/nav/artist/0x1983d01c841e76542448422e0aa2f8c9889ce9d7)，[微博](https://weibo.com/p/1004061863345053)
 
 

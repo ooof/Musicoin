@@ -57,3 +57,5 @@
 2018/03/21，[SXSW 2018：Musicoin使用区块链为音乐家和听众带来音乐革命](http://www.nibletz.com/events/sxsw/musicoin-interview)
 
 ​	<img src="img/2018-03-23 01-07-47.png" width="480">
+
+2018/04/24，[推出Musicoin移动应用程序设计](https://medium.com/@musicoin/unveiling-musicoin-mobile-app-design-2d5570e57139)
