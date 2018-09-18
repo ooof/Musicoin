@@ -37,15 +37,14 @@
 28. 2017/11/19，[乔伊斯](https://musicoin.org/artist/0xc58349748985f1bb159a8b55c1eab0d5a0fd00af) ，[微博](https://weibo.com/Dcy19870504)
 29. 2017/11/22，[杨牧](https://musicoin.org/nav/artist/0x09609d8db9fb0cf2cbb60831f7ba6ea3fb23f99c) ，[微博](https://weibo.com/minyaoyangmu)
 30. 2017/11/22，[苏碧霄](https://musicoin.org/nav/artist/0x0d1f25ad32997bd236ed5c4830664d5585964a2c) ，[微博](https://weibo.com/u/5534480736)
+31. 2017/10/18，阿木：[Musicoin地址](https://musicoin.org/nav/artist/0x1d15cb23742af29c31955a8a5ab15af8696e343e)，1$MC，[微博](https://weibo.com/mt0000) (24133)
 
 ### 2.认证，无歌曲
 
 1. QingQing：[Musicoin地址](https://musicoin.org/nav/artist/0x0210a4ffc6ad53c377f50817a96a293e7ef7e368)，12$MC，[微博](https://weibo.com/u/3936889598) (401285)
 
 2. 菻書：[Musicoin地址](https://musicoin.org/nav/artist/0xc807a072ddb3467c24bbbfa9d3c157887380355f )，[微博](https://weibo.com/u/2154043883) (540)非好友
-3. 阿木：[Musicoin地址](https://musicoin.org/nav/artist/0x1d15cb23742af29c31955a8a5ab15af8696e343e)，1$MC，[微博](https://weibo.com/mt0000) (24133)
-4. 戰慄音樂：[Musicoin地址](https://musicoin.org/nav/artist/0x167df7662b355a8d8d92b9634424d86411fe6858)，1$MC，[微博](https://weibo.com/classicsound) (9954)
-5. 凯博：[Musicoin地址](https://musicoin.org/nav/artist/0x267d6a2cccafb26d0533b8682da292aa624732ae)，[5Sing](http://5sing.kugou.com/52110692) (18)
+3. 凯博：[Musicoin地址](https://musicoin.org/nav/artist/0x267d6a2cccafb26d0533b8682da292aa624732ae)，[5Sing](http://5sing.kugou.com/52110692) (18)
 
 
 ### 3.无认证，无歌曲
@@ -75,6 +74,7 @@
 10. 2018/04/18，[尹梅](https://musicoin.org/nav/artist/0x0e10b0e2e6f2efdfc528a0b3be080a504825401f)
 11. 2018/08/15，[贾昱彤](https://musicoin.org/nav/artist/0xca5140fdda2bd29055e3378f033aa1832126cb13)，[微博](https://weibo.com/u/1745456141)
 12. 2018/09/09，[遁世浮屠](https://musicoin.org/nav/artist/0x4fa8439d72c322e167a22a9c7ef1c16ad64b21fb)，[微博](https://www.weibo.com/u/3272839713)
-13. 2018/09/18，[代乐东](https://musicoin.org/nav/artist/0x1983d01c841e76542448422e0aa2f8c9889ce9d7)，[微博](https://weibo.com/p/1004061863345053)
+13. 2018/09/11， [戰慄音樂](https://musicoin.org/nav/artist/0x167df7662b355a8d8d92b9634424d86411fe6858)，[微博](https://weibo.com/classicsound) (9954)
+14. 2018/09/18，[代乐东](https://musicoin.org/nav/artist/0x1983d01c841e76542448422e0aa2f8c9889ce9d7)，[微博](https://weibo.com/p/1004061863345053)
 
 
