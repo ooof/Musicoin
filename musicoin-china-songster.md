@@ -52,9 +52,8 @@
 1. 胡静：[Musicoin地址](https://musicoin.org/nav/artist/0xcda87f14e8b0289dad605a4ca673957fb6bb7ad2)， [微博](https://weibo.com/hujing) (3087995)
 2. 环宇组合：[Musicoin地址](https://musicoin.org/nav/artist/0x186e807fb381eaa4f5234d7c1b66966cf365a270 )，[微博](https://weibo.com/525760128) (8914)
 3. 李轶：[Musicoin地址](https://musicoin.org/nav/artist/0x889a0730f3dfaa7324dcb5ac74529d4547156805)，1$MC
-4. 李天平&创梦文化：[Musicoin地址](https://musicoin.org/nav/artist/0x02bb3269c4b99fd7fdf0b81e797b79944b0d62a0)
-5. Jaycco：[Musicoin地址](https://musicoin.org/nav/artist/0x42b7ea7cb1188244607981096d9468f49c5e7495)
-6. 音乐学人：[Musicoin地址](https://musicoin.org/nav/artist/0x3c275a8e0dca6053bc5c6b888dcd3e01f11de80e )，[微博](https://weibo.com/315187222)(2255739)
+4. Jaycco：[Musicoin地址](https://musicoin.org/nav/artist/0x42b7ea7cb1188244607981096d9468f49c5e7495)
+5. 音乐学人：[Musicoin地址](https://musicoin.org/nav/artist/0x3c275a8e0dca6053bc5c6b888dcd3e01f11de80e )，[微博](https://weibo.com/315187222)(2255739)
 
 ## 二、2018 Musicoin 中文歌手
 
@@ -70,7 +69,8 @@
 10. 2018/04/18，[尹梅](https://musicoin.org/nav/artist/0x0e10b0e2e6f2efdfc528a0b3be080a504825401f)
 11. 2018/08/15，[贾昱彤](https://musicoin.org/nav/artist/0xca5140fdda2bd29055e3378f033aa1832126cb13)，[微博](https://weibo.com/u/1745456141)
 12. 2018/09/09，[遁世浮屠](https://musicoin.org/nav/artist/0x4fa8439d72c322e167a22a9c7ef1c16ad64b21fb)，[微博](https://www.weibo.com/u/3272839713)
-13. 2018/09/11， [戰慄音樂](https://musicoin.org/nav/artist/0x167df7662b355a8d8d92b9634424d86411fe6858)，[微博](https://weibo.com/classicsound) (9954)
+13. 2018/09/11，[戰慄音樂](https://musicoin.org/nav/artist/0x167df7662b355a8d8d92b9634424d86411fe6858)，[微博](https://weibo.com/classicsound) (9954)
 14. 2018/09/18，[代岳东](https://musicoin.org/nav/artist/0x1983d01c841e76542448422e0aa2f8c9889ce9d7)，[微博](https://weibo.com/p/1004061863345053)
+15. 2018/09/19，[李天平](https://musicoin.org/nav/artist/0x02bb3269c4b99fd7fdf0b81e797b79944b0d62a0)，[微博](https://www.weibo.com/u/1228329722)
 
 
