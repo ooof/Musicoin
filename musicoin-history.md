@@ -44,6 +44,14 @@
 
 2018/02/14，Musicoin 桌面版 1.0 发布，并开始征集多语言包，[1.0版的改进](https://github.com/Musicoin/desktop/blob/master/CHANGELOG.md) ，[下载地址](https://github.com/Musicoin/desktop/releases/tag/1.0)。
 
+2018/10/17,Musicoin 项目成员将于今年10月份前往巴黎参加 [2018 年 MaMA 音乐节和大会](http://www.mamafestival.com/fr/convention)，MaMA 是一个为期三天的年度聚会，既是一个专业音乐会，也是一个专注于新兴人才的多场地音乐展。在过去的 18 年里，它接待了众多不拘一格的国际艺术家，包括传奇的灵魂歌手查尔斯·布拉德利（Charles Bradley），哥伦比亚 Cero39 的 cumbatronica/electropidub，以及法国自己的 Laurent Garnier 和 Birdy Nam Nam 。今年的 116 位艺术家阵容涵盖了从新古典主义钢琴（AlexandraStréliski）到 “electric blue witch-hop”（ New Zealand’s Estère. ）的各种风格。
+
+Musicoin 创始人 Isaac Mao 将于10月17日星期三在历史悠久的 Le Trianon 举行的 MaMA Invent 研讨会上发表主题演讲 - 这是一个专注于音乐行业新兴技术和创新的特别活动。涵盖的主题包括自 2017年2月进入市场以来达到的 Musicoin 的理念、成就和里程碑，以及有助于迎来平台发展的下一步的新发展的公告。三次获得格莱美奖提名的制片人 Pascal Guyon - 一位使用该平台的 Musicoin 大使和注册音乐家 - 也将分享他作为艺术家的第一手经验。
+
+
+来源：https://medium.com/@musicoin/musicoin-to-deliver-keynote-speech-at-2018-mama-music-festival-in-paris-bbd7dc5f5e00
+
+
 2018/02/21，MC Plays：一场每周一次的音乐和加密货币圆桌会议 ，[Musicoin Youtube 电台](https://www.youtube.com/channel/UCLSaD00Q0CjP1b24InfyOcg)
 
 2018/02/22，[Musicoin 进入 Coinomi 多资产手机钱包](https://medium.com/@musicoin/musicoin-added-to-coinomi-multi-asset-mobile-wallet-eb9bd3d77d66)　，Coinomi 支持的数字货币：https://coinomi.com/#download-now
@@ -59,3 +67,6 @@
 ​	<img src="img/2018-03-23 01-07-47.png" width="480">
 
 2018/04/24，[推出Musicoin移动应用程序设计](https://medium.com/@musicoin/unveiling-musicoin-mobile-app-design-2d5570e57139)
+
+2019/03/22，[Musicoin Mobile(MM) APP 2.0 发布](https://medium.com/@musicoin/musicoin-mobile-mm-upgraded-to-version-2-0-c7105765dd7d)，
+
